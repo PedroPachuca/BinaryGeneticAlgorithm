@@ -1,5 +1,5 @@
 # BinaryGeneticAlgorithm
-## Example of Binary Algorithm Machine Learning
+## Example of Genetic Algorithm Machine Learning
 
 Genetic Algorithm Machine Learning optimized for generating Binary string of set length. 
 
